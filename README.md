@@ -8,35 +8,50 @@ Steps to follow:
 
 1)Install Django using the command
 
-`pip install fastapi`
+```
+pip install fastapi
+```
 
 2)Install textblob using the command
 
-`pip install textblob`
+```
+pip install textblob
+```
 
 3)Install moviepy using the command
-
-`pip install moviepy`
+```
+pip install moviepy
+```
 
 4)Install mutagen using the command
 
-`pip install mutagen`
+```
+pip install mutagen
+```
 
 5)Install gtts using the command
 
-`pip install gTTS`
+```
+pip install gTTS
+```
 
 6)Install selenium using the command
 
-`pip install selenium`
+```
+pip install selenium
+```
 
 7)Run the below command to start the backend fastapi
 
-`uvicorn main:app --reload`
+```
+uvicorn main:app --reload
+```
 
 8)Run the below command to start the frontend reactjs
 
-`npm start`
+```
+npm start
+```
 
 
 
